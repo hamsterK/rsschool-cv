@@ -66,7 +66,7 @@ Management of QA team - planning, task assignment, progress tracking
 
 
 ## Languages
-English (C1) - IELTS certificate
-French (B2) - DELF certificate
-Polish (B2)
-Russian (Native)
+* English (C1) - IELTS certificate
+* French (B2) - DELF certificate
+* Polish (B2)
+* Russian (Native)
