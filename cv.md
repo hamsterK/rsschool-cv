@@ -56,9 +56,14 @@ function duplicateCount(text){
 Preparing checklists, test cases, test plans, test reports
 Manual testing of web, api, mobile apps
 Test automation with selenium
+Code analysis
 Management of QA team - planning, task assignment, progress tracking
 
 ## Education
+[FastAPI - The complete course by Eric Roby](https://www.udemy.com/course-dashboard-redirect/?course_id=4355412) - 2025
+
+[JavaScript - The complete Guide by Academind](https://www.udemy.com/course-dashboard-redirect/?course_id=2508942) - 2025
+
 
 ## Languages
 
