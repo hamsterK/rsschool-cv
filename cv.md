@@ -51,6 +51,13 @@ function duplicateCount(text){
 
 ## Experience
 
+### QA Engineer
+#### January 2018 - until now
+Preparing checklists, test cases, test plans, test reports
+Manual testing of web, api, mobile apps
+Test automation with selenium
+Management of QA team - planning, task assignment, progress tracking
+
 ## Education
 
 ## Languages
