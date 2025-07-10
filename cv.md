@@ -53,11 +53,11 @@ function duplicateCount(text){
 
 ### QA Engineer
 #### January 2018 - until now
-Preparing checklists, test cases, test plans, test reports
-Manual testing of web, api, mobile apps
-Test automation with selenium
-Code analysis
-Management of QA team - planning, task assignment, progress tracking
+* Preparing checklists, test cases, test plans, test reports
+* Manual testing of web, api, mobile apps
+* Test automation with selenium
+* Code analysis
+* Management of QA team - planning, task assignment, progress tracking
 
 ## Education
 [FastAPI - The complete course by Eric Roby](https://www.udemy.com/course-dashboard-redirect/?course_id=4355412) - 2025
