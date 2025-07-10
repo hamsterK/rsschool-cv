@@ -1,7 +1,7 @@
 # Anastasiya Krauchuk
 
 ## Contacts
- * email: [anastasiya.krauchuk.pl@gmail.com](anastasiya.krauchuk.pl@gmail.com)
+ * email: anastasiya.krauchuk.pl@gmail.com
  * discord: Anastasiya K (@hamsterK)
  * hithub: [hamsterK](https://github.com/hamsterK)
 
