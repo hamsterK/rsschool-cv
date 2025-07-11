@@ -1,0 +1,21 @@
+h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+header {
+    background-color: #f3c7f5;
+    padding: 1em;
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+section {
+    margin-bottom: 2em;
+    background-color: rgb(229, 228, 172);
+}
