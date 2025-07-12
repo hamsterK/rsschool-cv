@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://hamsterk.github.io/rsschool-cv/cv
+https://hamsterk.github.io/rsschool-cv/
