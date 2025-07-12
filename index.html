@@ -14,9 +14,8 @@
 
      <main>
 
-        <avatar>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Avatar_cat.png" alt="Kitty avatar" width="150" height="150">
-        </avatar>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Avatar_cat.png" alt="Kitty avatar" width="150" height="150">
+
 
         <section id="contacts">
             <h2>Contacts</h2>
@@ -74,7 +73,7 @@ function duplicateCount(text){
   let counter = 0;
   const textArr = text.toLowerCase().split("");
   for (el of new Set(textArr)) {
-    if (textArr.filter(x => x === el).length > 1) {
+    if (textArr.filter(x =&gt; x === el).length &gt; 1) {
       counter ++;
     }
   };
