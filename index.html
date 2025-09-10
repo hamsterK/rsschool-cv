@@ -113,18 +113,18 @@
       </section>
       <section id="code" class="section">
         <h2 class="section-title">Code example</h2>
-        <p>
-          function duplicateCount(text){<br>
-          let counter = 0;<br>
-          const textArr = text.toLowerCase().split("");<br>
-          for (el of new Set(textArr)) {<br>
-          if (textArr.filter(x =&gt; x === el).length &gt; 1) {<br>
-          counter ++;<br>
-          }<br>
-          };<br>
-          return counter;<br>
-          }
-        </p>
+        <pre><code>
+function duplicateCount(text){
+  let counter = 0;
+  const textArr = text.toLowerCase().split("");
+  for (el of new Set(textArr)) {
+    if (textArr.filter(x => x === el).length > 1) {
+      counter ++;
+    }
+  };
+  return counter;
+}
+</code></pre>
       </section>
       <section id="experience" class="section">
         <h2 class="section-title">Experience</h2>
@@ -159,7 +159,8 @@
             </a>
             - 2025
           </li>
-        </ul><br></section>
+        </ul>
+</section>
       <section id="languages" class="section">
         <h2 class="section-title">Languages</h2>
         <ul>
@@ -173,7 +174,7 @@
   </main>
   <footer class="footer">
     <div class="container">
-      <a href="https://github.com/hamsterK" class="contact-link">github</a><br>
+<a href="https://github.com/hamsterK" class="contact-link">github</a>
       <a href="https://rs.school/courses/javascript-ru">
         <img src="assets/img/rs-school-logo.svg" alt="rs school logo" width="150" height="100">
       </a>
