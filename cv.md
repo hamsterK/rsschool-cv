@@ -1,0 +1,72 @@
+# Anastasiya Krauchuk
+
+## Contacts
+ * email: anastasiya.krauchuk.pl@gmail.com
+ * discord: Anastasiya K (@hamsterK)
+ * hithub: [hamsterK](https://github.com/hamsterK)
+
+ ## Summary
+
+ ISTQB Certified Software Tester specializing in quality assurance of web and mobile applications. Proficient in non-functional and functional testing (web, mobile, API), planning and management of QA team activities. Experienced in the following domains: city mobility, fintech, igaming. 
+ 
+ Previously gained skills in Python for test automation. Now I am developing skills in JS to upgrade my technical skills and take the next step in my career.
+
+## Skills
+* Requirements analysis
+* Communication within Agile 
+* Testing of web-based applications and API
+* Testing of mobile applications (Android, iOS)
+* Test documentation preparation
+* SQL
+* Logs analysis
+* Python (pytest, selenium, FastAPI)
+* JS (ES7)
+
+## Tools
+* Jira
+* Confluence
+* Testrail
+* DevTools
+* Android Studio
+* Postman
+* Charles Proxy
+* VS Code
+* pgAdmin
+
+
+## Code example
+
+```
+function duplicateCount(text){
+  let counter = 0;
+  const textArr = text.toLowerCase().split("");
+  for (el of new Set(textArr)) {
+    if (textArr.filter(x => x === el).length > 1) {
+      counter ++;
+    }
+  };
+  return counter;
+}
+```
+
+## Experience
+
+### QA Engineer
+#### January 2018 - until now
+* Preparing checklists, test cases, test plans, test reports
+* Manual testing of web, api, mobile apps
+* Test automation with selenium
+* Code analysis
+* Management of QA team - planning, task assignment, progress tracking
+
+## Education
+[FastAPI - The complete course by Eric Roby](https://www.udemy.com/course-dashboard-redirect/?course_id=4355412) - 2025
+
+[JavaScript - The complete Guide by Academind](https://www.udemy.com/course-dashboard-redirect/?course_id=2508942) - 2025
+
+
+## Languages
+* English (C1) - IELTS certificate
+* French (B2) - DELF certificate
+* Polish (B2)
+* Russian (Native)
